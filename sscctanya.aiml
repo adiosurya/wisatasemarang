@@ -1,0 +1,1323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+<pattern>SSCC</pattern>
+<template>
+SSCC (Soegijapranata Student Career Centre) merupakan sebuah lembaga yang memberikan pelayanan kepada mahasiswa, alumni, dan masyarakat untuk menyediakan informasi yang berkaitan dengan kesiapan menjadi tenaga kerja maupun wirausahawan
+</template>
+</category>
+
+
+<category>
+<pattern>*SSCC</pattern>
+<template>
+<srai>SSCC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*SSCC*</pattern>
+<template>
+<srai>SSCC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_SSCC</pattern>
+<template>
+<srai>SSCC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>SSCC_*</pattern>
+<template>
+<srai>SSCC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_SSCC_*</pattern>
+<template>
+<srai>SSCC</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kantor</pattern>
+<template>
+Kantor SSCC terdapat di Gedung Mikael Lantai 2
+</template>
+</category>
+
+
+<category>
+<pattern>*kantor</pattern>
+<template>
+<srai>kantor</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kantor*</pattern>
+<template>
+<srai>kantor</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kantor</pattern>
+<template>
+<srai>kantor</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kantor_*</pattern>
+<template>
+<srai>kantor</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kantor_*</pattern>
+<template>
+<srai>kantor</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kontak</pattern>
+<template>
+anda dapat menghubungi kami melalui 024-8441555 Ext. 1430,1431 dan 082220571886 atau juga bisa menghubung kami melalui sscc@unika.ac.id
+</template>
+</category>
+
+
+<category>
+<pattern>*kontak</pattern>
+<template>
+<srai>kontak</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*kontak*</pattern>
+<template>
+<srai>kontak</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kontak</pattern>
+<template>
+<srai>kontak</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kontak_*</pattern>
+<template>
+<srai>kontak</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kontak_*</pattern>
+<template>
+<srai>kontak</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>layanan</pattern>
+<template>
+Di SCC, anda akan mendapatkan informasi mengenai Job Fair, Buku Wisuda, Seminar/Workshop, Campus Hiring, Rekrutmen/ Info Loker, dan Seleksi
+</template>
+</category>
+
+
+<category>
+<pattern>*layanan</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>layanan*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_layanan</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>layanan_*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_layanan_*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>jam pelayanan</pattern>
+<template>
+Kantor SSCC dibuka pada pukul 08.00 sampai dengan pukul 15.00 WIBdan menerima pelayanan pada hari Senin sampai dengan Jumat
+</template>
+</category>
+
+
+<category>
+<pattern>*jam pelayanan</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*jam pelayanan*</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*jam*pelayanan*</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_jam pelayanan</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>jam pelayanan_*</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_jam pelayanan_*</pattern>
+<template>
+<srai>jam pelayanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kegiatan</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*kegiatan</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kegiatan*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kegiatan</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kegiatan_*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kegiatan_*</pattern>
+<template>
+<srai>layanan</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya seminar</pattern>
+<template>
+Sewa ruang sebesar Rp 600.000 dengan kuota 50 orang untuk test rekrutment atau 70 orang untuk seminar
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya seminar</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya seminar*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya*seminar*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya seminar</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya seminar_*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya_seminar_*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya kampus hiring</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya kampus hiring</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya kampus hiring*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya*kampus*hiring*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya kampus hiring</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya kampus hiring_*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya_kampus hiring_*</pattern>
+<template>
+<srai>biaya seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>proses kampus hiring</pattern>
+<template>
+Silahkan menghubungi ibu Wulan 0822-2057-1886 (WA) untuk menentukan tanggal yang tersedia
+</template>
+</category>
+
+
+<category>
+<pattern>*proses kampus hiring</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*proses kampus hiring*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*proses*kampus*hiring*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_proses kampus hiring</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_proses kampus hiring_*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_proses_kampus hiring_*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>proses seminar</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*proses seminar</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*proses seminar*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*proses*seminar*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_proses seminar</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>proses seminar_*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_proses_seminar_*</pattern>
+<template>
+<srai>proses kampus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>seminar</pattern>
+<template>
+Seminar yang diadakan oleh SSCC akan bekerjasama dengan perusahaan mitra, dengan topic bervariasi sesuai kebutuhan mahasiswa
+</template>
+</category>
+
+
+<category>
+<pattern>*seminar</pattern>
+<template>
+<srai>seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>seminar*</pattern>
+<template>
+<srai>seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_seminar</pattern>
+<template>
+<srai>seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>seminar_*</pattern>
+<template>
+<srai>seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_seminar_*</pattern>
+<template>
+<srai>seminar</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>campus hiring</pattern>
+<template>
+Campus Hiring merupakan sebuah acara yang diadakan untuk mencari pekerjaan (job seeker) dan melaksanakan seleksi kandidat yang memenuhi syarat di kampus Unika Soegijapranata
+</template>
+</category>
+
+
+<category>
+<pattern>*campus hiring</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>campus hiring*</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*campus*hiring*</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_campus hiring</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>campus hiring_*</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_campus hiring_*</pattern>
+<template>
+<srai>campus hiring</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lowongan kerja</pattern>
+<template>
+Informasi mengenai lowongan kerja dapat anda lihat di TV blast depan ruangan SSCC, mading fakultas, media sosial instagram dan facebook, website, dan aplikasi halo alumni
+</template>
+</category>
+
+
+<category>
+<pattern>*lowongan kerja</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lowongan kerja*</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*lowongan*kerja*</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lowongan kerja</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lowongan kerja_*</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lowongan kerja_*</pattern>
+<template>
+<srai>lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lowongan kerja bagian</pattern>
+<template>
+Anda dapat mencari info lowongan kerja di sarana yang tersedia. SSCC hanya sebagai penyalur antara perusahaan dan mahasiswa
+</template>
+</category>
+
+
+<category>
+<pattern>*lowongan kerja bagian</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*lowongan kerja bagian*</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*lowongan*kerja*bagian*</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lowongan kerja bagian</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lowongan kerja bagian_*</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>publikasi lowongan kerja</pattern>
+<template>
+Mengirim surat pengantar (dengan kop perusahaan) dan info lowongan kerja ke sscc@unika.ac.id dan tu.sscc@unika.ac.id
+</template>
+</category>
+
+
+<category>
+<pattern>*publikasi lowongan kerja</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>publikasi lowongan kerja*</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*publikasi*lowongan*kerja*</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_publikasi lowongan kerja</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>publikasi lowongan kerja_*</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>publikasi_lowongan kerja</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_publikasi_lowongan kerja_*</pattern>
+<template>
+<srai>publikasi lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lowongan kerja bagian_*</pattern>
+<template>
+<srai>lowongan kerja bagian</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya lowongan kerja</pattern>
+<template>
+Tidak ada
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya lowongan kerja</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya lowongan kerja*</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*biaya*lowongan*kerja*</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya lowongan kerja</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya lowongan kerja_*</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>biaya_lowongan kerja</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_biaya_lowongan kerja_*</pattern>
+<template>
+<srai>biaya lowongan kerja</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>job fair</pattern>
+<template>
+Ya, untuk umum dan alumni Unika
+</template>
+</category>
+
+
+<category>
+<pattern>*job fair</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*job fair*</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*job*fair*</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_job fair</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>job fair_*</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_job fair_*</pattern>
+<template>
+<srai>job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kapan job fair</pattern>
+<template>
+Unika JobFair diadakan dua kali dalam setahun, yakni bulan April dan November
+</template>
+</category>
+
+
+<category>
+<pattern>*kapan job fair</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*kapan job fair*</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*kapan*job*fair*</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kapan job fair</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>kapan job fair_*</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_kapan job fair_*</pattern>
+<template>
+<srai>kapan job fair</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>wisuda</pattern>
+<template>
+Pelaksanaan wisuda di Unika dilaksanakan pada bulan April, September, dan Desember
+</template>
+</category>
+
+
+<category>
+<pattern>*wisuda</pattern>
+<template>
+<srai> wisuda </srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*wisuda*</pattern>
+<template>
+<srai> wisuda </srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_wisuda</pattern>
+<template>
+<srai> wisuda </srai>
+</template>
+</category>
+
+
+<category>
+<pattern>wisuda_*</pattern>
+<template>
+<srai> wisuda </srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_wisuda_*</pattern>
+<template>
+<srai> wisuda </srai>
+</template>
+</category>
+
+
+<category>
+<pattern>melaksanakan wisuda</pattern>
+<template>
+3 kali
+</template>
+</category>
+
+
+<category>
+<pattern>*melaksanakan wisuda</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>melaksanakan wisuda*</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*melaksanakan*wisuda*</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_melaksanakan wisuda</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>melaksanakan wisuda_*</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_melaksanakan wisuda_*</pattern>
+<template>
+<srai>melaksanakan wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>buku wisuda</pattern>
+<template>
+Untuk permintaan buku wisuda, anda silahkan datang ke SSCC dengan membawa surat pengantar (dengan kop surat perusahaan) mohon buku wisuda
+</template>
+</category>
+
+
+<category>
+<pattern>*buku wisuda</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>buku wisuda*</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*buku*wisuda*</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_buku wisuda</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>buku wisuda_*</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_buku wisuda_*</pattern>
+<template>
+<srai>buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku wisuda</pattern>
+<template>
+Nama, alamat, kontak, IPK, judul skripsi/tesis, dan foto alumni
+</template>
+</category>
+
+
+<category>
+<pattern>*data buku wisuda</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku wisuda*</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*data*buku*wisuda* </pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_data buku wisuda</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku wisuda_*</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data_buku wisuda</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_data buku wisuda_*</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_data_buku wisuda_*</pattern>
+<template>
+<srai>data buku wisuda</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku alumni</pattern>
+<template>
+Tidak, kami hanya menyediakan berupa buku wisuda (hardcopy)
+</template>
+</category>
+
+
+<category>
+<pattern>*data buku alumni</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku alumni*</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*data*buku*alumni*</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_data buku alumni</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>data buku alumni_*</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_data buku alumni_*</pattern>
+<template>
+<srai>data buku alumni</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lulusan fakultas</pattern>
+<template>
+SSCC akan membantu menyebarkan ke mading fakultas dengan kualifikasi yang dicari perusahaan
+</template>
+</category>
+
+
+<category>
+<pattern>*lulusan fakultas</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lulusan fakultas*</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>*lulusan*fakultas*</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lulusan fakultas</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>lulusan fakultas_*</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+<category>
+<pattern>_lulusan fakultas_*</pattern>
+<template>
+<srai>lulusan fakultas</srai>
+</template>
+</category>
+
+
+</aiml>
